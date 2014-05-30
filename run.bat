@@ -1,0 +1,1 @@
+cudaminer.exe -H 1 -i 0 -l auto -C 1 -o stratum+tcp://fr.suchcoins.com:3334 -O ph3nx.workertest:76tfggun
